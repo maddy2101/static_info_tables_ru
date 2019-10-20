@@ -23,9 +23,9 @@
     "typo3-ter/static-info-tables-ru": "self.version"
   },
   "require": {
-    "php": ">=5.5",
-    "typo3/cms-core": "^7.6 || ^8.7",
-    "sjbr/static-info-tables": "^6.5"
+    "php": ">=7.0",
+    "typo3/cms-core": "^8.7 || ^9.5",
+    "sjbr/static-info-tables": "^6.7"
   },
 
   "require-dev": {
@@ -61,9 +61,9 @@
     ],
     "extension-cleanup-for-release": [
       "rm -rf Tests/",
-      "rm .gitignore",
-      "rm .travis.yml",
-      "rm composer.lock"
+      "rm -rf .gitignore",
+      "rm -rf .travis.yml",
+      "rm -rf composer.lock"
     ]
   }
 }
