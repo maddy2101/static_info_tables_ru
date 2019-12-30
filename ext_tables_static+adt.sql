@@ -274,10 +274,10 @@ UPDATE static_countries SET cn_short_ru='Аландские острова' WHER
 UPDATE static_countries SET cn_short_ru='Тимор-Лесте' WHERE cn_iso_2='TL';
 UPDATE static_countries SET cn_short_ru='Черногория' WHERE cn_iso_2='ME';
 UPDATE static_countries SET cn_short_ru='Сербия' WHERE cn_iso_2='RS';
-UPDATE static_countries SET cn_short_ru='джерси' WHERE cn_iso_2='JE';
-UPDATE static_countries SET cn_short_ru='шерстяная фуфайка' WHERE cn_iso_2='GG';
+UPDATE static_countries SET cn_short_ru='Джерси' WHERE cn_iso_2='JE';
+UPDATE static_countries SET cn_short_ru='Гернси' WHERE cn_iso_2='GG';
 UPDATE static_countries SET cn_short_ru='Остров Мэн' WHERE cn_iso_2='IM';
-UPDATE static_countries SET cn_short_ru='Saint Martin' WHERE cn_iso_2='MF';
+UPDATE static_countries SET cn_short_ru='Сен-Мартен' WHERE cn_iso_2='MF';
 UPDATE static_countries SET cn_short_ru='Сен-Бартельми' WHERE cn_iso_2='BL';
 UPDATE static_countries SET cn_short_ru='Бонайре, Синт-Эстатиус и Саба' WHERE cn_iso_2='BQ';
 UPDATE static_countries SET cn_short_ru='Кюрасао' WHERE cn_iso_2='CW';
